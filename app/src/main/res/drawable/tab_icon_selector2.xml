@@ -1,0 +1,10 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- When selected -->
+    <item
+        android:drawable="@drawable/ic_announcement_black_24dp"
+        android:state_selected="true"></item>
+    <!-- When not selected -->
+    <item android:drawable="@drawable/ic_announcement_white_24dp"></item>
+
+</selector>
